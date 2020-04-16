@@ -5,8 +5,8 @@
   "version": "1.0.0",
   "factor": {
     "load": {
-      "app": "index.json",
-      "server": "server.json"
+      "app": "index.js",
+      "server": "server.js"
     },
     "url": "https://basic-example.factor.dev"
   },
